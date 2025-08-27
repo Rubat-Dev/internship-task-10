@@ -1,8 +1,47 @@
-# React + Vite
+# 🚀 TechFlow – AI-Powered Business Solutions
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+TechFlow is a modern, responsive React application built with **React + Tailwind CSS** that showcases an AI-driven SaaS platform.  
+It includes beautifully designed sections like Hero, Features, About, Testimonials, Contact, and Footer – all optimized for performance and user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+
+- 🎨 **Modern UI/UX** – Built with React, Tailwind CSS, and Lucide/React Icons  
+- 🏗 **Reusable Components** – Modular structure with components like `FeatureCard`, `Head`, and `Testimonials`  
+- 📱 **Responsive Design** – Fully responsive across devices (desktop, tablet, mobile)  
+- 📧 **Contact Form** – Interactive form with loading state simulation  
+- ⭐ **Testimonials Carousel** – Auto-navigation with arrows and dot indicators  
+- 🖼 **Dynamic Sections** – Hero, Features, About, Testimonials, Contact, and Footer sections  
+
+---
+
+## 📂 Project Structure
+
+
+---
+
+## ⚡️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS  
+- **Icons:** Lucide-React, React Icons  
+- **Styling:** Utility-first Tailwind classes with gradients, animations, and hover effects  
+
+---
+
+## 🔧 Installation & Setup
+
+Clone the repository and install dependencies:
+
+```bash
+# Clone the repository
+git clone https://github.com/Rubat-Dev/internship-task-10.git
+
+# Navigate into the project
+cd techflow
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm dev
