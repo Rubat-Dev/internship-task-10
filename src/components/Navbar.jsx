@@ -23,7 +23,7 @@ const Header = () => {
         <FaBars className="text-2xl" />
       </button>
       {/* Mobile nav */}
-      <div className={`flex md:items-center md:gap-8 gap-5 max-md:w-full max-md:flex-col items-start max-md:absolute top-14 left-0 max-md:px-[8vw] max-md:shadow-lg overflow-hidden duration-300 ${isOpen?"max-md:h-[255px] max-md:pt-4 bg-white":"max-md:h-0"}`}>
+      <div className={`flex bg-white md:items-center md:gap-8 gap-5 max-md:w-full max-md:flex-col items-start max-md:absolute top-14 left-0 max-md:px-[8vw] max-md:shadow-lg overflow-hidden duration-300 ${isOpen?"max-md:h-[255px] max-md:pt-4":"max-md:h-0"}`}>
         <ul className="flex md:gap-8 gap-5 md:items-center max-md:flex-col">
           <li>
             <a
